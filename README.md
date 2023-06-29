@@ -1,6 +1,6 @@
 # Empleados-api
 ***
-Api registrar empleados con su sueldo
+Api para registrar empleados con su sueldo
 ## General Info
 ***
 Para poder ejecutar el programa se requiere java 7 o superior, ejecutar mvn -X -e clean install para poder compilar el proyecto, una vez compilado
